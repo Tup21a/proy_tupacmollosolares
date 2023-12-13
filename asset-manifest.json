@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/proy_tupacmollosolares/static/css/main.005ede53.css",
+    "main.js": "/proy_tupacmollosolares/static/js/main.957b9de5.js",
+    "static/js/787.4854053c.chunk.js": "/proy_tupacmollosolares/static/js/787.4854053c.chunk.js",
+    "static/media/ab.png": "/proy_tupacmollosolares/static/media/ab.905cecfeef2cca27d16b.png",
+    "static/media/bg-testimonial.jpg": "/proy_tupacmollosolares/static/media/bg-testimonial.b26cbabc972e95786cbf.jpg",
+    "static/media/blog3.jpg": "/proy_tupacmollosolares/static/media/blog3.bcca9fb438e228c66612.jpg",
+    "static/media/blog1.jpg": "/proy_tupacmollosolares/static/media/blog1.41fc52f527bd1b05cdcd.jpg",
+    "static/media/blog2.jpg": "/proy_tupacmollosolares/static/media/blog2.b31a167d23173c955d09.jpg",
+    "static/media/team3.jpg": "/proy_tupacmollosolares/static/media/team3.6a378684714363f72e3a.jpg",
+    "static/media/team5.jpg": "/proy_tupacmollosolares/static/media/team5.849950bc338b0b322c6a.jpg",
+    "static/media/img6.jpg": "/proy_tupacmollosolares/static/media/img6.284a41190104abafba9c.jpg",
+    "static/media/team7.jpg": "/proy_tupacmollosolares/static/media/team7.8abf58b17d3dccaddec4.jpg",
+    "static/media/team1.jpg": "/proy_tupacmollosolares/static/media/team1.9f8915d1d2e4adbce8d3.jpg",
+    "index.html": "/proy_tupacmollosolares/index.html",
+    "main.005ede53.css.map": "/proy_tupacmollosolares/static/css/main.005ede53.css.map",
+    "main.957b9de5.js.map": "/proy_tupacmollosolares/static/js/main.957b9de5.js.map",
+    "787.4854053c.chunk.js.map": "/proy_tupacmollosolares/static/js/787.4854053c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005ede53.css",
+    "static/js/main.957b9de5.js"
+  ]
+}
